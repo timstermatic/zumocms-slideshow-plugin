@@ -1,0 +1,2 @@
+zumocms-slideshow-plugin
+========================
